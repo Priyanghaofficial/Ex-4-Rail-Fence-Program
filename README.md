@@ -70,7 +70,8 @@ d[j] = c[i];
  }
 ```
 # OUTPUT
-<img width="575" height="269" alt="image" src="https://github.com/user-attachments/assets/bef8a8c5-210b-469c-a97a-f0c3c74e92c0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dfcb87ae-06b3-4d9e-8a01-238e14e55850" />
+
 
 # RESULT
 The program was executed successfully.
